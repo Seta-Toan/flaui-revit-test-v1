@@ -144,14 +144,6 @@ Xem file `refefactorGuide.md` để biết chi tiết về cách cải thiện c
 - [NUnit Documentation](https://docs.nunit.org/)
 - [Revit API Documentation](https://help.autodesk.com/view/RVT/2024/ENU/Revit-API-Developer-Guide/)
 
-## 📄 License
-
-Dự án này được phân phối dưới [MIT License](LICENSE).
-
-## 👥 Tác giả
-
-- **Team Development** - *Initial work*
-
 ## 📞 Hỗ trợ
 
 Nếu gặp vấn đề hoặc có câu hỏi, vui lòng:
